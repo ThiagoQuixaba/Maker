@@ -11,7 +11,7 @@ def Principal(gambiarra: int):
         {
             'type': 'list',
             'name': 'opcao',
-            'message': f'\nSISTEMA: Qual ação deseja realizar?',
+            'message': f'Qual ação deseja realizar?',
             'choices': ['Registrar Entrada', 'Registrar Saida', 'Listar', 'Buscar', 'Encerrar'],
         }
     ]
